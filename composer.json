@@ -1,0 +1,12 @@
+{
+    "name": "davidroszkowski/branch-manager",
+    "description": "Composer plugin for managing various environment branches. Useful for when workflows don't conform to Composer's basic tag based workflows.",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "David Roszkowski",
+            "email": "trumpetcrazy@gmail.com"
+        }
+    ],
+    "require": {}
+}
